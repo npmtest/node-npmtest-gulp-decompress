@@ -30,7 +30,7 @@
 <tspan x="10" y="442">  │ │ │ ├── object-assign@4.1.1 </tspan>
 <tspan x="10" y="458">  │ │ │ └─┬ pinkie-promise@2.0.1 </tspan>
 <tspan x="10" y="474">  │ │ │   └── pinkie@2.0.4 </tspan>
-<tspan x="10" y="490">  │ │ └─┬ yauzl@2.7.0 </tspan>
+<tspan x="10" y="490">  │ │ └─┬ yauzl@2.8.0 </tspan>
 <tspan x="10" y="506">  │ │   ├── buffer-crc32@0.2.13 </tspan>
 <tspan x="10" y="522">  │ │   └─┬ fd-slicer@1.0.1 </tspan>
 <tspan x="10" y="538">  │ │     └── pend@1.2.0 </tspan>
